@@ -1,0 +1,7 @@
+all_candidates.json
+fetched_markets.json
+.DS_Store
+.idea
+.idea/*
+__pycache__
+__pycache__/*
