@@ -1,5 +1,10 @@
 all_candidates.json
 fetched_markets.json
+monitor_cache.json
+monitor_state.json
+pairs.json
+pairs_strict.json
+
 .DS_Store
 .idea
 .idea/*
